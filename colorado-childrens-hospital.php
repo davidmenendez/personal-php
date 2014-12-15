@@ -1,3 +1,8 @@
+<?php
+#META Settings
+$title = "CHCOF";
+$description = "Colorado Childrens Hospital 2014 David Menendez & Blackbaud";
+?>
 <?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">

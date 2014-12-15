@@ -65,7 +65,7 @@
                 <h3>WORK</h3>
                 <div class="row clearfix">
                     <div class="col col4 workPreview">
-                        <a href="blackbaud.html">
+                        <a href="blackbaud.php">
                             <figure>
                                 <img src="assets/img/work/beacharacter/be-a-character1.jpg">
                                 <figcaption>
@@ -75,7 +75,7 @@
                         </a>
                     </div>
                     <div class="col col4 workPreview">
-                        <a href="blackbaud.html">
+                        <a href="blackbaud.php">
                             <figure>
                                 <img src="assets/img/work/beacharacter/be-a-character1.jpg">
                                 <figcaption>
@@ -85,7 +85,7 @@
                         </a>
                     </div>
                     <div class="col col4 workPreview">
-                        <a href="blackbaud.html">
+                        <a href="blackbaud.php">
                             <figure>
                                 <img src="assets/img/work/beacharacter/be-a-character1.jpg">
                                 <figcaption>
@@ -95,7 +95,7 @@
                         </a>
                     </div>
                     <div class="col col4 workPreview">
-                        <a href="blackbaud.html">
+                        <a href="blackbaud.php">
                             <figure>
                                 <img src="assets/img/work/beacharacter/be-a-character1.jpg">
                                 <figcaption>

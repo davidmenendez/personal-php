@@ -10,7 +10,7 @@ $(function () {
                 dataType: "html",
                 success: function (html) {
                     var div = $(".mainContent", $(html));
-                    var title = $(html).find("h3").text();
+                    var title = $(html).filter('title').text();
                     $("title").text(title);
                     $("#work").html(div);
                     pageLoadAnimate();

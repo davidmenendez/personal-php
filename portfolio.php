@@ -1,3 +1,8 @@
+<?php
+#META Settings
+$title = "Portfolio";
+$description = "Blackbaud 2014 David Menendez & Blackbaud";
+?>
 <?php include 'includes/header.php'; ?>
         <section id="portfoltio">
             <div class="container">

@@ -1,25 +1,9 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>#BeACharacter</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href='http://fonts.googleapis.com/css?family=Lato:300,400|Open+Sans:400,300|Oswald' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" type="text/css" href="assets/css/jquery.fancybox.css">
-        <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
-    </head>
-    <body>
-        <section id="siteHeader" class="container">
-            <h1>David Menendez</h1>
-            <nav>
-                <ul>
-                    <li><a href="index.html">HOME</a></li>
-                    <li class="active"><a href="portfolio.html">WORK</a></li>
-                    <li><a href="about.html">ABOUT</a></li>
-                    <li><a href="about.html#resumeContainer">RESUME</a></li>
-                </ul>
-            </nav>
-        </section>
+<?php
+#META Settings
+$title = "Blackbaud";
+$description = "Blackbaud 2014 David Menendez & Blackbaud";
+?>
+<?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">
                 <img class="banner" src="assets/img/work/beacharacter/banner.jpg">
@@ -57,20 +41,4 @@
                 </div>
             </div>
         </section>
-        <footer>
-            <div class="container">
-                <nav id="footerNav">
-                    <ul>
-                        <li><h2><a href="work.html">WORK</a></h2></li>
-                        <li><h2><a href="work.html#resumeContainer">RESUME</a></h2></li>
-                        <li><h2><a id="contactBtn" href="#">CONTACT</a></h2></li>
-                    </ul>
-                </nav>
-            </div>
-        </footer>
-        <script src="assets/js/libs/jquery/jquery.js"></script>
-        <script src="assets/js/libs/fancybox/jquery.fancybox.js"></script>
-        <script src="assets/js/libs/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
-        <script src="assets/js/functions.js"></script>
-    </body>
-</html>
+<?php include 'includes/footer.php'; ?>
