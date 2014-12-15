@@ -24,6 +24,7 @@ h1{
 h2{
     font-family: "Open Sans";
     font-weight: 300;
+    font-size: 30px;
     margin-bottom: 15px;
 }
 h3{
@@ -34,13 +35,13 @@ h3{
 }
 p, a, li{
     margin-bottom: 15px;
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 20px;
+    line-height: 30px;
 }
 a{
     color: inherit;
     text-decoration: none;
-    -webkit-transition: all 200ms linear;
+    /*-webkit-transition: all 200ms linear;*/
 }
 img{
     display: block;
@@ -83,6 +84,9 @@ nav a{
 #siteHeader li{
     margin-right: 10px;
 }
+#navicon{
+    display: none;
+}
 
 /*global classes*/
 .container{
@@ -104,12 +108,13 @@ nav a{
 }
 a.btn{
     display: inline-block;
-    width: 200px;
-    padding: 15px 0;
+    min-width: 200px;
+    padding: 15px;
     text-align: center;
     background: #E25454;
     color: #eee;
     border: 2px solid transparent;
+    -webkit-transition: all 200ms linear;
 }
 a.btn:hover{
     background: transparent;
@@ -315,18 +320,22 @@ footer{
     /*top*/
     #top{
         padding-top: 0;
-    }
+        height: auto;
+        background-position: 50% 50%;
+    
+}
     #top header{
         padding: 20px;
         margin: 0;
         height: 100%;
         top: 0;
+        position: static;
     }
     #navicon{
-        font-family: "Open Sans";
-        font-weight: 300;
-        font-size: 32px;
+        width: 40px;
         float: right;
+        display: block;
+        cursor: pointer;
     }
     #siteHeader h1{
         float: left;
@@ -344,7 +353,9 @@ footer{
     }
     #siteHeader > h1{
         margin-left: 15px;
-    }
+    
+        font-size: 30px;
+}
     #siteHeader > span{
         margin-right: 15px;
     }
@@ -355,6 +366,9 @@ footer{
         float: none;
         border: 2px solid #eee;
         margin-bottom: 25px;
+    }
+    nav li:last-child{
+        margin-bottom: 0;
     }
     nav a{
         padding: 15px 0;
@@ -379,7 +393,7 @@ footer{
         border: 0;
         margin: 0;
     }
-    #siteHeader li.active{
+    #siteHeader li.active, #siteHeader li:hover{
         background: #E25454;
         color: #fff;
     }
