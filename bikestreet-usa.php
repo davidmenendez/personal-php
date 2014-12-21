@@ -6,16 +6,21 @@ $description = "Bikestreet USA 2013 David Menendez & Blackbaud";
 <?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">
-                <img class="banner" src="assets/img/work/beacharacter/banner.jpg">
-                <h3>#BeACharacter</h3>
-                <p>Client- WhiteCastle</p>
-                <h2>Description</h2>
-                <p>This year Party City decided to make a heavily social network based microsite for their Halloween promotion. The theme is #BeACharacter, as if using the hash tag on various social networks to be a part of the website. For this project I worked as head front end developer.</p>
-                <p>Phase 1 of the site is the largest of the 2 phases. Phase 1 involves setting up the responsive layout of the website. Some of the components that need to be developed include a youtube theater at the top of the page, setting up a responsive carousel, and the user generated content area.</p>
-                <p>Once the CSS for the layout was complete I spent a great amount of time working with the creative developer to get the images sliced correctly and start adding the creative assets. This was a bit tricky at times because of the responsive element, but after some tinkering I was able to get everything to act correctly.</p>
-                <p>The user generated content area took quite a bit of time to do. It's a 4x4 image grid that uses infinite scrolling. There was originally two pages, one for the user generated content, but that was dropped into an overlay. It was just a matter of setting up the grid and connecting the overlay with all the share functionality. I also had to find a solution for the content that was videos.</p>
-                <p>In the end everything was connected and the had a good flow responsively. The trickiest part of the project was getting the overlay to act nicely responsively in a way that fit the creative. Once that was worked out everything else sort of fell into place.</p>
-                <p><a href="http://bacdev.ztrac.com" target="_blank">BeACharacter Link</a></p>
+                <img class="banner" src="assets/img/work/bstreet/banner.jpg">
+                <h1>Bikestreet USA</h1>
+                <p>*I feel the need to add a disclaimer to this entry- Bikestreet USA was not done solely by me. The website was completely redone by another developer here at Zimmerman and was passed on to me afterwards. Most UI and functionality on the site was not done by me. I did, however do other extensive work and contributed other pages.</p>
+                <p>After the website was redesigned and marked up, the next step was to integrate it into a CMS. Kentico was the chosen CMS, being that Zimmerman does .Net work. I worked heavily with the backend developer to set up the CMS and to integrate all the pages into it. This process took a few weeks to work out some of the functionality involved with the navigation and other backend issues. The pages that were created by me include- blog, events, word on the street, and locations landing pages</p>
+                <p>Once integrated into the CMS the next step would be to add some new pages from scratch, which included- The Events, Blog, and Location landing pages. This was a three step process involving- 1. Working with the Project Managers and Creative to work out the look and feel of the new pages, 2. Markup the pages for approval, and 3. Integrate into the CMS.</p>
+                <p>All pages required work with CSS3, jQuery, multiple jQuery plugin, and use of Googlemap API on the locations landing pages. All pages also required working with the Facebook and Twitter api to set up sharing and tweeting for various posts and events.</p>
+                <p>Page Links-</p>
+                <ul>
+                    <li><a href="http://www.bikestreetusa.com/about-us/blog/" target="_blank">Blog</a></li>
+                    <li><a href="http://www.bikestreetusa.com/about-us/events/" target="_blank">Events</a></li>
+                    <li><a href="http://www.bikestreetusa.com/about-us/word-on-the-street/" target="_blank">Word on the Street</a></li>
+                    <li><a href="http://www.bikestreetusa.com/store-locator/" target="_blank">Store locations listing page</a></li>
+                    <li><a href="http://www.bikestreetusa.com/store-locator/juno-beach" target="_blank">Individual store locations page</a></li>
+                    <li><a href="http://www.bikestreetusa.com" target="_blank">Bikestreet USA site link</a></li>
+                </ul>
                 <div id="screens">
                     <h3>Screens</h3>
                     <div class="row">

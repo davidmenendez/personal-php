@@ -2,7 +2,7 @@
             <div class="container">
                 <nav id="footerNav">
                     <ul>
-                        <li><h2><a href="portfolio.php">WORK</a></h2></li>
+                        <li><h2><a href="portfolio.php">PORTFOLIO</a></h2></li>
                         <li><h2><a href="about.php#resumeContainer">RESUME</a></h2></li>
                         <li><h2><a href="about.php#contactContainer">CONTACT</a></h2></li>
                     </ul>

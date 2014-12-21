@@ -6,16 +6,14 @@ $description = "#BeACharacter 2014 David Menendez & Blackbaud";
 <?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">
-                <img class="banner" src="assets/img/work/beacharacter/banner.jpg">
-                <h3>#BeACharacter</h3>
-                <p>Client- WhiteCastle</p>
-                <h2>Description</h2>
-                <p>This year Party City decided to make a heavily social network based microsite for their Halloween promotion. The theme is #BeACharacter, as if using the hash tag on various social networks to be a part of the website. For this project I worked as head front end developer.</p>
-                <p>Phase 1 of the site is the largest of the 2 phases. Phase 1 involves setting up the responsive layout of the website. Some of the components that need to be developed include a youtube theater at the top of the page, setting up a responsive carousel, and the user generated content area.</p>
-                <p>Once the CSS for the layout was complete I spent a great amount of time working with the creative developer to get the images sliced correctly and start adding the creative assets. This was a bit tricky at times because of the responsive element, but after some tinkering I was able to get everything to act correctly.</p>
-                <p>The user generated content area took quite a bit of time to do. It's a 4x4 image grid that uses infinite scrolling. There was originally two pages, one for the user generated content, but that was dropped into an overlay. It was just a matter of setting up the grid and connecting the overlay with all the share functionality. I also had to find a solution for the content that was videos.</p>
-                <p>In the end everything was connected and the had a good flow responsively. The trickiest part of the project was getting the overlay to act nicely responsively in a way that fit the creative. Once that was worked out everything else sort of fell into place.</p>
-                <p><a href="http://bacdev.ztrac.com" target="_blank">BeACharacter Link</a></p>
+                <img class="banner" src="assets/img/work/zblog/banner.jpg">
+                <h1>Zimmerman Advertising Blog</h1>
+                <p>The Zimmerman advertising blog is a small internal project for the executives at Zimmerman advertising to publish their professional thoughts. This project came down from our CMO and, while a small project compared to some others, had significant meaning to our department. I was tasked and estimated that based off the creative mock and functional specs that it would take three days to accomplish.</p>
+                <p>The website is in a wordpress format. A simple responsive theme was purchased so that the website reskin could be accomplished quickly, at the request of the CMO. This made my job a little easier, but ultimately would require a few days worth of hacking the php and css to get the look and functions working.</p>
+                <p>While not a very large or complicated project, it did require knowledge of php and wordpress. I'm thankful that wordpress is a great tool for accomplishing small website likes this that allow the user to generate their own content quickly and easily. They wanted social sharing and facebook commenting, which was no problem with the help of a few plugins. Most of the wordpress work I did involved redoing the loops in files like single.php</p>
+                <p>There was also no creative outline for the individual pages and the blog posts, so this was one of the times where I used my best judgment and took some creative liberties. No one seemed to object and found some of my ideas to be good, such as adding links for related posts.</p>
+                <p>Because this was a small project I also used this time to use some of my photoshop knowledge to provide myself with some of the assets for the live page by taking them for the mock. In some instances I find it easier to not wait for others to provide me with assets when I can do it myself in a fraction of the time.</p>
+                <p><a href="http://www.zimmermanblog.com" target="_blank">zBlog Link</a></p>
                 <div id="screens">
                     <h3>Screens</h3>
                     <div class="row">

@@ -6,16 +6,19 @@ $description = "Hottest Halloween 2014 David Menendez & Blackbaud";
 <?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">
-                <img class="banner" src="assets/img/work/beacharacter/banner.jpg">
-                <h3>#BeACharacter</h3>
-                <p>Client- WhiteCastle</p>
-                <h2>Description</h2>
-                <p>This year Party City decided to make a heavily social network based microsite for their Halloween promotion. The theme is #BeACharacter, as if using the hash tag on various social networks to be a part of the website. For this project I worked as head front end developer.</p>
-                <p>Phase 1 of the site is the largest of the 2 phases. Phase 1 involves setting up the responsive layout of the website. Some of the components that need to be developed include a youtube theater at the top of the page, setting up a responsive carousel, and the user generated content area.</p>
-                <p>Once the CSS for the layout was complete I spent a great amount of time working with the creative developer to get the images sliced correctly and start adding the creative assets. This was a bit tricky at times because of the responsive element, but after some tinkering I was able to get everything to act correctly.</p>
-                <p>The user generated content area took quite a bit of time to do. It's a 4x4 image grid that uses infinite scrolling. There was originally two pages, one for the user generated content, but that was dropped into an overlay. It was just a matter of setting up the grid and connecting the overlay with all the share functionality. I also had to find a solution for the content that was videos.</p>
-                <p>In the end everything was connected and the had a good flow responsively. The trickiest part of the project was getting the overlay to act nicely responsively in a way that fit the creative. Once that was worked out everything else sort of fell into place.</p>
-                <p><a href="http://bacdev.ztrac.com" target="_blank">BeACharacter Link</a></p>
+                <img class="banner" src="assets/img/work/hottesthalloween/banner.jpg">
+                <h1>Hottest Halloween by Party City</h1>
+                <p>Party City's Hottest Halloween was my first professional project done with Zimmerman Advertising. It was a Halloween promotion for Party City that was a social voting platform for users. The premise is you are supposed to follow the contestants in Party Cities search for the hottest girl. This website was also my introduction to .Net. The backend for this site used MVC3. While I was already knowledgable of the concept of model view controller, this was my first major project involving .Net. I quickly picked up the basics to be able to contribute to some of the backend coding of this project.</p>
+                <p>This project was simple enough concept- Just a basic microsite with some image galleries and a voting system at some point. The whole project was over a few months and consisted of 5 phases.</p>
+                <h2>Phase 1-</h2>
+                <p>This phase was the bulk of the work, which was mainly just creating the entire UI and some basic functionality. The functionality consisted of a video carousel, lightbox with the galleries, and social shares. All images had to be shareable for Facebook and tweetable for Twitter, in addition to having the whole site linked to Facebook, Twitter, and Pinterest API to make the majority of the content social.</p>
+                <h2>Phases 2 and 3-</h2>
+                <p>These two phases were just a continuation of the first phase and involved adding a new gallery and a new youtube video for each release.</p>
+                <h2>Phase 4-</h2>
+                <p>Phase four was the only other major update for this microsite, which would include adding a voting system and adding a few new pages. On my end, the new pages would require much more styling and some more galleries. The voting system was set up by the senior on the project, who is the .Net specialist.</p>
+                <h2>Phase 5-</h2>
+                <p>The final phase consisted of adding a new landing page the announced the winner and turned off voting. A fine farewell to my first project.</p>
+                <p><a href="http://www.hottesthalloween.com" target="_blank" data-analytics="link out">Hottest Halloween site link</a></p>
                 <div id="screens">
                     <h3>Screens</h3>
                     <div class="row">

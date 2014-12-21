@@ -4,7 +4,7 @@ $title = "Portfolio";
 $description = "Blackbaud 2014 David Menendez & Blackbaud";
 ?>
 <?php include 'includes/header.php'; ?>
-        <section id="portfoltio">
+        <section id="portfolio">
             <div class="container">
                 <h3>WORK</h3>
                 <div class="row clearfix">
@@ -21,7 +21,7 @@ $description = "Blackbaud 2014 David Menendez & Blackbaud";
                         </a>
                     </div>
                     <div class="col col3 workPreview">
-                        <a href="colorado-childrens-hostpital.php">
+                        <a href="colorado-childrens-hospital.php">
                             <figure>
                                 <img alt="" src="assets/img/work/chcf/chcf.jpg">
                                 <figcaption>

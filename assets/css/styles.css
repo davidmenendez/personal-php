@@ -13,12 +13,13 @@ html{
 body{
     height: 100%;
     background: #eee;
-    -webkit-font-smoothing: antialiased
+    -webkit-font-smoothing: antialiased;
+    color: #333;
 }
 h1{
-    font-family: "Open Sans";
+    font-family: "Oswald";
     font-weight: 300;
-    font-size: 36px;
+    font-size: 60px;
     margin-bottom: 15px;
 }
 h2{
@@ -41,7 +42,7 @@ p, a, li{
 a{
     color: inherit;
     text-decoration: none;
-    /*-webkit-transition: all 200ms linear;*/
+    -webkit-transition: color 200ms linear;
 }
 img{
     display: block;
@@ -50,6 +51,9 @@ img{
 hr{
     margin: 0 0 15px 0;
     color: #333;
+}
+ul{
+    margin-left: 40px;
 }
 
 /*general classes*/
@@ -124,18 +128,12 @@ a.btn:hover{
 
 /*rows and cols*/
 .row{
-    margin-bottom: 15px;
+    margin: 0 -10px 15px -10px;
     overflow: hidden;
-    /* margin-left: -15px; */
-    /* margin-right: -15px; */
 }
 .col{
     float: left;
-    /*padding: 0 10px;*/
-    padding-right: 10px;
-}
-.col:last-of-type{
-    padding-right: 0;
+    padding: 0 10px;
 }
 .col2{
     width: 50%;
@@ -170,48 +168,44 @@ a.btn:hover{
 }
 #branding{
     font-size: 46px;
+    font-family: "Open Sans";
 }
 #mainNav ul{
-    width: 400px;
+    max-width: 600px;
 }
 #mainNav li{
     width: 25%;
-}
-
-/*middle*/
-#middle{
-    color: #333;
-}
-#skills{
-    text-align: center;
-}
-.infoPane{
-    border-radius: 5px;
-    background: #E25454;
-    color: #fff;
-    padding: 10px 15px;
-}
-.infoPane:hover{
-    /*-webkit-transform: translate(0px,4px);
-    border-bottom: 1px solid #333;*/
 }
 
 /*about*/
 #about{
     background: #fff;
 }
+#aboutContainer{
+    overflow: hidden;
+}
+#profile{
+    width: 30%;
+    float: left;
+}
+#aboutText{
+    width: 70%;
+    float: left;
+}
 
 /*work*/
-#work, #portfoltio{
+#portfolio{
     background: #fff;
-    color: #333;
+}
+#portfolio .row{
+        margin: 0 0 10px 0;
+}
+#portfolio .col{
+    padding: 0;
 }
 .workPreview  a{
     display: block;
     margin-bottom: 0;
-}
-.workPreview.col{
-    padding: 0;
 }
 .workPreview figure{
     position: relative;
@@ -268,6 +262,9 @@ a.btn:hover{
 .workPreview figure:hover p, .workPreview figure:hover figcaption::before, .workPreview figure:hover h3{
     -webkit-transform: scale(1);
 }
+#work{
+    background: #fff;
+}
 #work .workPreview h3{
     margin-top: 40px;
     font-size: 32px;
@@ -276,11 +273,8 @@ a.btn:hover{
 /*entries*/
 
 /*about*/
-#resumeContainer ul{
-    margin-left: 40px;
-}
 #resumeContainer li{
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 .resume_entry{
     margin-bottom: 15px;
@@ -311,15 +305,12 @@ footer{
         width: 100%;
         margin-bottom: 15px;
     }
-    .container .col{
-        padding: 0;
-    }
-    .container .col.workPreview{
+    .workPreview{
         width: 50%;
-        /* padding: 0 10px; */
-    
+    }
+    #portfolio .workPreview{
         margin: 0;
-}
+    }
 }
 @media(max-width:480px){
     /*global*/
@@ -332,8 +323,8 @@ footer{
         padding-top: 0;
         height: auto;
         background-position: 50% 50%;
-    
-}
+
+    }
     #top header{
         padding: 20px;
         margin: 0;
@@ -363,9 +354,9 @@ footer{
     }
     #siteHeader > h1{
         margin-left: 15px;
-    
+
         font-size: 30px;
-}
+    }
     #siteHeader > span{
         margin-right: 15px;
     }
@@ -391,8 +382,10 @@ footer{
     }
     #mainNav li:hover, #footerNav li:hover{
         background: #eee;
-        color: #333;
         border-color: #333;
+    }
+    #mainNav li:hover a, #footerNav li:hover a{
+        color: #333;
     }
     #siteHeader{
         text-align: center;
@@ -405,6 +398,8 @@ footer{
     }
     #siteHeader li.active, #siteHeader li:hover{
         background: #E25454;
+    }
+    #siteHeader li.active a, #siteHeader li:hover a{
         color: #fff;
     }
     #footerNav li{
@@ -413,5 +408,13 @@ footer{
     .container .col.workPreview{
         width: 100%;
         padding: 0;
+    }
+    #profile{
+        float: none;
+        display: none;
+    }
+    #aboutText{
+        float: none;
+        width: 100%;
     }
 }

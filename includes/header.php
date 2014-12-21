@@ -9,6 +9,4 @@
         <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
     </head>
     <body>
-        <?php
-        (basename($_SERVER['PHP_SELF']) !== "index.php") ? include 'nav.php' : "";
-        ?>
+        <?php (basename($_SERVER['PHP_SELF']) !== "index.php") ? include 'nav.php' : ""; ?>

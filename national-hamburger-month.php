@@ -6,16 +6,17 @@ $description = "National Hamburger Month 2014 David Menendez & Blackbaud";
 <?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">
-                <img class="banner" src="assets/img/work/beacharacter/banner.jpg">
-                <h3>#BeACharacter</h3>
-                <p>Client- WhiteCastle</p>
-                <h2>Description</h2>
-                <p>This year Party City decided to make a heavily social network based microsite for their Halloween promotion. The theme is #BeACharacter, as if using the hash tag on various social networks to be a part of the website. For this project I worked as head front end developer.</p>
-                <p>Phase 1 of the site is the largest of the 2 phases. Phase 1 involves setting up the responsive layout of the website. Some of the components that need to be developed include a youtube theater at the top of the page, setting up a responsive carousel, and the user generated content area.</p>
-                <p>Once the CSS for the layout was complete I spent a great amount of time working with the creative developer to get the images sliced correctly and start adding the creative assets. This was a bit tricky at times because of the responsive element, but after some tinkering I was able to get everything to act correctly.</p>
-                <p>The user generated content area took quite a bit of time to do. It's a 4x4 image grid that uses infinite scrolling. There was originally two pages, one for the user generated content, but that was dropped into an overlay. It was just a matter of setting up the grid and connecting the overlay with all the share functionality. I also had to find a solution for the content that was videos.</p>
-                <p>In the end everything was connected and the had a good flow responsively. The trickiest part of the project was getting the overlay to act nicely responsively in a way that fit the creative. Once that was worked out everything else sort of fell into place.</p>
-                <p><a href="http://bacdev.ztrac.com" target="_blank">BeACharacter Link</a></p>
+                <img class="banner" src="assets/img/work/nhm/banner.jpg">
+                <h1>National Hamburger Month by WhiteCastle</h1>
+                <p>May kicks off the start of White Castles National Hamburger Month. The point of the website is to allow users to sign up for flash sales in there area and unveil when and where a new sale will take place around the country. I was lead front end developer for this project, which involved heavy use of css3, html5, and jquery. This project has two phases and each phase having it's own set of requirements and challenges to overcome.</p>
+                <h2>Phase 1: Develop the initial layout</h2>
+                <p>The front end portion of this phase involved building the entire responsive layout. Often times we get the go ahead on a site without creative or specs right away. This was one of the cases. I began by building the fluid layout to account for all devices. The next part was building the form. The form is simple enough; name, age, and zipcode, but behind it lies quite a bit of functionality. We have to check the users information and give them options based off their information. If a user enters an email that is already in the Whitecastle or Craver Nation database then we have to give these users special offers. Likewise for the zip code. Given a database of all Whitecastle location zipcodes, we had to build a system to check the radius of a user and tell them how many castles are in their area.</p>
+                <p>To accomplish all this there is a heavy use of jquery that's used to connect the front end with the back end.</p>
+                <p>The other main part to this was the count down timer. This project is an MVC project, and unfortunately makes working with ASP date/time tricky with javascript. But in the end I was able to create the working timer.</p>
+                <h2>Phase 2: Flash sales</h2>
+                <p>Phase 2 of this project consists of showing all the flash sales going on. My end required working with more timer functionality, including adding a progress bar. The initial layout is the same, which saved a lot of time working any new CSS since the site is already responsive. A few new adjustments would have to be made with the jquery as well to include new functionality.</p>
+                <p>Part of this phase also involved working with the twitter api to create a twitter feed ticker. Surprisingly, I was unable to find a plugin that already had this functionality, so I had to build one from scratch. After reading up on jquery plugin development I decided to package the feeder as a plugin for the website.</p>
+                <p><a href="http://cndev.whitecastle.com/sliderbrationphase2" target="_blank">NHM site link</a></p>
                 <div id="screens">
                     <h3>Screens</h3>
                     <div class="row">
