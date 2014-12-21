@@ -1,6 +1,6 @@
 <?php
 #META Settings
-$title = "#BeACharacter";
+$title = "Zimmerman Advertising";
 $description = "#BeACharacter 2014 David Menendez & Blackbaud";
 ?>
 <?php include 'includes/header.php'; ?>
@@ -37,7 +37,7 @@ $description = "#BeACharacter 2014 David Menendez & Blackbaud";
                     </div>
                 </div>
                 <div id="workNav">
-                    <a class="btn" href="colorado-childrens-hospital.php">Colorado Childrens Hospital</a>
+                    <a class="btn" href="hadassah.php">Hadassah</a>
                 </div>
             </div>
         </section>
