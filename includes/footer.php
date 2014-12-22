@@ -10,7 +10,7 @@
             </div>
         </footer>
         <script src="assets/js/libs/jquery/jquery-1.11.1.min.js"></script>
-        <script src="assets/js/libs/fancybox/jquery.fancybox.js"></script>
+        <script src="assets/js/libs/fancybox/jquery.fancybox.min.js"></script>
         <script src="assets/js/libs/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
         <script src="assets/js/functions.js"></script>
     </body>

@@ -18,18 +18,18 @@ $description = "#BeACharacter 2014 David Menendez & Blackbaud";
                     <h3>Screens</h3>
                     <div class="row">
                         <div class="col col3">
-                            <a href="assets/img/work/beacharacter/fullsize/be-a-character2.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character2.jpg" alt="party city development">
+                            <a href="assets/img/work/zblog/fullsize/zna2.jpg" class="fancybox" rel="group">
+                                <img src="assets/img/work/zblog/zna2.jpg" alt="party city development">
                             </a>
                         </div>
                         <div class="col col3">
-                            <a href="assets/img/work/beacharacter/fullsize/be-a-character1.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character1.jpg" alt="party city development">
+                            <a href="assets/img/work/zblog/fullsize/zna1.jpg" class="fancybox" rel="group">
+                                <img src="assets/img/work/zblog/zna1.jpg" alt="party city development">
                             </a>
                         </div>
                         <div class="col col3">
-                            <a href="assets/img/work/beacharacter/fullsize/be-a-character3.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character3.jpg" alt="party city development">
+                            <a href="assets/img/work/zblog/fullsize/zna3.jpg" class="fancybox" rel="group">
+                                <img src="assets/img/work/zblog/zna3.jpg" alt="party city development">
                             </a>
                         </div>
                     </div>
