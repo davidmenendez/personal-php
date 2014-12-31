@@ -166,6 +166,9 @@ a.btn:hover{
     padding: 100px 20px;
     margin-top: -180px;
 }
+#top.construction{
+    margin: 0;
+}
 #branding{
     font-size: 46px;
     font-family: "Open Sans";
@@ -175,6 +178,12 @@ a.btn:hover{
 }
 #mainNav li{
     width: 25%;
+}
+.construction #mainNav ul{
+    max-width: 300px;
+}
+.construction #mainNav li{
+    width: 50%;
 }
 
 /*about*/
@@ -198,7 +207,7 @@ a.btn:hover{
     background: #fff;
 }
 #portfolio .row{
-        margin: 0 0 10px 0;
+    margin: 0 0 10px 0;
 }
 #portfolio .col{
     padding: 0;
@@ -311,6 +320,12 @@ footer{
     #portfolio .workPreview{
         margin: 0;
     }
+    #top.construction{
+        height: 100%;
+    }
+    #top.construction header{
+        padding: 0 100px;
+    }
 }
 @media(max-width:480px){
     /*global*/
@@ -325,7 +340,7 @@ footer{
         background-position: 50% 50%;
 
     }
-    #top header{
+    #top header, #top.construction header{
         padding: 20px;
         margin: 0;
         height: 100%;
@@ -374,10 +389,10 @@ footer{
     nav a{
         padding: 15px 0;
     }
-    #mainNav ul, #footerNav ul{
+    #mainNav ul, #footerNav ul, .construction #mainNav ul{
         width: 100%;
     }
-    #mainNav li, #footerNav li{
+    #mainNav li, #footerNav li, .construction #mainNav li{
         width: 100%;
     }
     #mainNav li:hover, #footerNav li:hover{
