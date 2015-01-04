@@ -6,7 +6,7 @@ $description = "Bridgewater 2014 David Menendez & Blackbaud";
 <?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">
-                <img class="banner" src="assets/img/work/lennar/banner.jpg">
+                <img class="banner" src="assets/img/work/lennar/banner.jpg" alt="bridgewater project for lennar by David Menendez">
                 <h1>Bridgewater by Lennar</h1>
                 <p>Lennar is a housing company in South Florida and the Lakewood Ranch website is a portal for a new housing community. The site was a quick one month project that features responsive design, carousels, and a nifty little home gallery. For the project I was put as lead developer and only had to work with the artist to get it done.</p>
                 <p>As lead developer it was my duty to work directly with the creative artist and own the project. Set estimates and create a time line. Take full responsibility. I started the responsive layout from a functional wireframe. Slowly building the framework. Researching which plugins and techniques could be used. This is usually the process while we wait for official mocks to be drafted.</p>
@@ -18,17 +18,17 @@ $description = "Bridgewater 2014 David Menendez & Blackbaud";
                     <div class="row">
                         <div class="col col3">
                             <a href="assets/img/work/lennar/fullsize/lennar2.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/lennar/lennar2.jpg" alt="party city development">
+                                <img src="assets/img/work/lennar/lennar2.jpg" alt="custom fancybox overlay with print and social">
                             </a>
                         </div>
                         <div class="col col3">
                             <a href="assets/img/work/lennar/fullsize/lennar1.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/lennar/lennar1.jpg" alt="party city development">
+                                <img src="assets/img/work/lennar/lennar1.jpg" alt="bridgewater by lennar homepage">
                             </a>
                         </div>
                         <div class="col col3">
                             <a href="assets/img/work/lennar/fullsize/lennar3.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/lennar/lennar3.jpg" alt="party city development">
+                                <img src="assets/img/work/lennar/lennar3.jpg" alt="responsive sortable grid for different home types">
                             </a>
                         </div>
                     </div>

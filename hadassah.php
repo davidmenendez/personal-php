@@ -6,7 +6,7 @@ $description = "Hadassah 2014 David Menendez & Blackbaud";
 <?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">
-                <img class="banner" src="assets/img/work/beacharacter/banner.jpg">
+                <img class="banner" alt="hadassah front end development project for blackbaud" src="assets/img/work/hadassah/banner3.jpg">
                 <h1>Hadassah</h1>
                 <p>This year Party City decided to make a heavily social network based microsite for their Halloween promotion. The theme is #BeACharacter, as if using the hash tag on various social networks to be a part of the website. For this project I worked as head front end developer.</p>
                 <p>Phase 1 of the site is the largest of the 2 phases. Phase 1 involves setting up the responsive layout of the website. Some of the components that need to be developed include a youtube theater at the top of the page, setting up a responsive carousel, and the user generated content area.</p>
@@ -18,18 +18,18 @@ $description = "Hadassah 2014 David Menendez & Blackbaud";
                     <h3>Screens</h3>
                     <div class="row">
                         <div class="col col3">
-                            <a href="assets/img/work/beacharacter/fullsize/be-a-character2.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character2.jpg" alt="party city development">
+                            <a href="assets/img/work/hadassah/fullsize/hada4.jpg" class="fancybox" rel="group">
+                                <img src="assets/img/work/hadassah/hada4.jpg" alt="news and stories listing page">
                             </a>
                         </div>
                         <div class="col col3">
-                            <a href="assets/img/work/beacharacter/fullsize/be-a-character1.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character1.jpg" alt="party city development">
+                            <a href="assets/img/work/hadassah/fullsize/hada3.jpg" class="fancybox" rel="group">
+                                <img src="assets/img/work/hadassah/hada3.jpg" alt="carousel and video overlay for history page">
                             </a>
                         </div>
                         <div class="col col3">
-                            <a href="assets/img/work/beacharacter/fullsize/be-a-character3.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character3.jpg" alt="party city development">
+                            <a href="assets/img/work/hadassah/fullsize/hada5.jpg" class="fancybox" rel="group">
+                                <img src="assets/img/work/hadassah/hada5.jpg" alt="news article page with responsive comments section">
                             </a>
                         </div>
                     </div>

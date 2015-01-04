@@ -6,7 +6,7 @@ $description = "Colorado Childrens Hospital 2014 David Menendez & Blackbaud";
 <?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">
-                <img class="banner" src="assets/img/work/beacharacter/banner.jpg">
+                <img alt="colorado childrens hospital project by David Menendez" class="banner" src="assets/img/work/chcf/banner.jpg">
                 <h1>Colorado Childrens Hospital</h1>
                 <p>This year Party City decided to make a heavily social network based microsite for their Halloween promotion. The theme is #BeACharacter, as if using the hash tag on various social networks to be a part of the website. For this project I worked as head front end developer.</p>
                 <p>Phase 1 of the site is the largest of the 2 phases. Phase 1 involves setting up the responsive layout of the website. Some of the components that need to be developed include a youtube theater at the top of the page, setting up a responsive carousel, and the user generated content area.</p>
@@ -18,18 +18,18 @@ $description = "Colorado Childrens Hospital 2014 David Menendez & Blackbaud";
                     <h3>Screens</h3>
                     <div class="row">
                         <div class="col col3">
-                            <a href="assets/img/work/beacharacter/fullsize/be-a-character2.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character2.jpg" alt="party city development">
+                            <a href="assets/img/work/chcf/fullsize/chcf3.jpg" class="fancybox" rel="group">
+                                <img src="assets/img/work/chcf/chcf3.jpg" alt="responsive image mosaic">
                             </a>
                         </div>
                         <div class="col col3">
-                            <a href="assets/img/work/beacharacter/fullsize/be-a-character1.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character1.jpg" alt="party city development">
+                            <a href="assets/img/work/chcf/fullsize/courage1.jpg" class="fancybox" rel="group">
+                                <img src="assets/img/work/chcf/courage1.jpg" alt="donation leaderboard, form, and custom progress meter">
                             </a>
                         </div>
                         <div class="col col3">
-                            <a href="assets/img/work/beacharacter/fullsize/be-a-character3.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character3.jpg" alt="party city development">
+                            <a href="assets/img/work/chcf/fullsize/tcc2.jpg" class="fancybox" rel="group">
+                                <img src="assets/img/work/chcf/tcc2.jpg" alt="footer layout for team childrens colorado">
                             </a>
                         </div>
                     </div>

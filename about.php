@@ -34,7 +34,7 @@ $description = "Learn more about David Menendez. View my web development work an
                     <div class="resume_entry">
                         <p>Interactive Developer II, Blackbaud INC <a href="http://www.blackbaud.com/" target="_blank">www.blackbaud.com</a>, 10/13 - Current</p>
                         <ul>
-                            <li>Extensive front end work using HTML, CSS, Javascript, and Jquery.
+                            <li>Extensive front end work using HTML, CSS, Javascript, and jQuery.
                             <li>Work with multiple clients, in some cases lead role, such as Make A Wish Foundation, American Cancer Society, Colorado Chilrdrens Hospital to maintain and develop their websites.</li>
                         </ul>
                     </div>
@@ -42,7 +42,7 @@ $description = "Learn more about David Menendez. View my web development work an
                         <p>Jr. PHP Web Developer, Zimmerman Advertising <a href="http://www.zadv.com" target="_blank">www.zadv.com</a>, 9/12 - 9/13</p>
                         <ul>
                             <li>Developing, Creating, and Maintaining websites for our clients, including; Party City, Whitecastle, and Bikestreet USA</li>
-                            <li>Extensive front end work using HTML, CSS, Javascript, and Jquery. In some cases also using the Kentico CMS</li>
+                            <li>Extensive front end work using HTML, CSS, Javascript, and jQuery. In some cases also using the Kentico CMS</li>
                         </ul>
                     </div>
                     <div class="resume_entry">
@@ -72,7 +72,7 @@ $description = "Learn more about David Menendez. View my web development work an
                             <h2>Skills</h2>
                             <div class="resume_entry">
                                 <ul>
-                                    <li>Able to create eye-appealing and functional websites using HTML, CSS, PHP, MYSQL, Javascript / Jquery, and Photoshop.</li>
+                                    <li>Able to create eye-appealing and functional websites using HTML, CSS, PHP, MYSQL, Javascript / jQuery, and Photoshop.</li>
                                     <li>Knowledge of objective and model view controller coding practices. Able to work with frameworks and able to use these techniques to create web applications.</li>
                                     <li>Able to effectively communicate with users to best determine their needs, work with users to keep them updated in a timely manner, and deliver a quality product that satisfies the user’s needs.</li>
                                     <li>Knowledge of search engine optimization best practices to ensure a healthy amount of traffic to a site. Able to implement google analytics in a meaningful and effective way to provide clients with important user habit information.</li>

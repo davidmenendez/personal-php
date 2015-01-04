@@ -115,7 +115,7 @@ $description = "Blackbaud 2014 David Menendez & Blackbaud";
                                 <figcaption>
                                     <h3>Hottest Halloween</h3>
                                     <p>HTML / CSS</p>
-                                    <p>jQuerye</p>
+                                    <p>jQuery</p>
                                     <p>C# MVC4</p>
                                 </figcaption>
                             </figure>

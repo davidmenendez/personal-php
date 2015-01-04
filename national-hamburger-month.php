@@ -6,7 +6,7 @@ $description = "National Hamburger Month 2014 David Menendez & Blackbaud";
 <?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">
-                <img class="banner" src="assets/img/work/nhm/banner.jpg">
+                <img class="banner" src="assets/img/work/nhm/banner.jpg" alt="national hamburger month promotion for Whitecastle by David Menendez">
                 <h1>National Hamburger Month by WhiteCastle</h1>
                 <p>May kicks off the start of White Castles National Hamburger Month. The point of the website is to allow users to sign up for flash sales in there area and unveil when and where a new sale will take place around the country. I was lead front end developer for this project, which involved heavy use of css3, html5, and jquery. This project has two phases and each phase having it's own set of requirements and challenges to overcome.</p>
                 <h2>Phase 1: Develop the initial layout</h2>
@@ -22,17 +22,17 @@ $description = "National Hamburger Month 2014 David Menendez & Blackbaud";
                     <div class="row">
                         <div class="col col3">
                             <a href="assets/img/work/nhm/fullsize/national-hamburger-month2.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/nhm/national-hamburger-month2.jpg" alt="party city development">
+                                <img src="assets/img/work/nhm/national-hamburger-month2.jpg" alt="custom sgnup form with twitter feed">
                             </a>
                         </div>
                         <div class="col col3">
                             <a href="assets/img/work/nhm/fullsize/national-hamburger-month1.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/nhm/national-hamburger-month1.jpg" alt="party city development">
+                                <img src="assets/img/work/nhm/national-hamburger-month1.jpg" alt="promotion timers with responsive progress bar">
                             </a>
                         </div>
                         <div class="col col3">
                             <a href="assets/img/work/nhm/fullsize/national-hamburger-month3.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/nhm/national-hamburger-month3.jpg" alt="party city development">
+                                <img src="assets/img/work/nhm/national-hamburger-month3.jpg" alt="store locator by zipcode and custom form validation">
                             </a>
                         </div>
                     </div>

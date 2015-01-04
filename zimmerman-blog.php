@@ -6,7 +6,7 @@ $description = "#BeACharacter 2014 David Menendez & Blackbaud";
 <?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">
-                <img class="banner" src="assets/img/work/zblog/banner.jpg">
+                <img class="banner" src="assets/img/work/zblog/banner.jpg" alt="zimmerman advertising block by David Menendez">
                 <h1>Zimmerman Advertising Blog</h1>
                 <p>The Zimmerman advertising blog is a small internal project for the executives at Zimmerman advertising to publish their professional thoughts. This project came down from our CMO and, while a small project compared to some others, had significant meaning to our department. I was tasked and estimated that based off the creative mock and functional specs that it would take three days to accomplish.</p>
                 <p>The website is in a wordpress format. A simple responsive theme was purchased so that the website reskin could be accomplished quickly, at the request of the CMO. This made my job a little easier, but ultimately would require a few days worth of hacking the php and css to get the look and functions working.</p>
@@ -19,17 +19,17 @@ $description = "#BeACharacter 2014 David Menendez & Blackbaud";
                     <div class="row">
                         <div class="col col3">
                             <a href="assets/img/work/zblog/fullsize/zna2.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/zblog/zna2.jpg" alt="party city development">
+                                <img src="assets/img/work/zblog/zna2.jpg" alt="custom facebook comment section">
                             </a>
                         </div>
                         <div class="col col3">
                             <a href="assets/img/work/zblog/fullsize/zna1.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/zblog/zna1.jpg" alt="party city development">
+                                <img src="assets/img/work/zblog/zna1.jpg" alt="homepage with links to articles and twitter feed">
                             </a>
                         </div>
                         <div class="col col3">
                             <a href="assets/img/work/zblog/fullsize/zna3.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/zblog/zna3.jpg" alt="party city development">
+                                <img src="assets/img/work/zblog/zna3.jpg" alt="responsive article page example">
                             </a>
                         </div>
                     </div>

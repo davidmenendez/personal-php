@@ -304,7 +304,13 @@ footer{
     text-align: center;
     margin: 0;
 }
-
+#screens img{
+    border: 5px solid transparent;
+    -webkit-transition: border-color 200ms linear;
+}
+#screens img:hover{
+    border-color: #E25454;
+}
 
 
 /*mobile friendly*/

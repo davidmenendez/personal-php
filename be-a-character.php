@@ -6,7 +6,7 @@ $description = "#BeACharacter 2014 David Menendez & Blackbaud";
 <?php include 'includes/header.php'; ?>
         <section id="work">
             <div class="container mainContent">
-                <img class="banner" src="assets/img/work/beacharacter/banner.jpg">
+                <img class="banner" alt="be a character project for party city" src="assets/img/work/beacharacter/be-a-character-banner.jpg">
                 <h1>#BeACharacter by Party City</h1>
                 <p>This year Party City decided to make a heavily social network based microsite for their Halloween promotion. The theme is #BeACharacter, as if using the hash tag on various social networks to be a part of the website. For this project I worked as head front end developer.</p>
                 <p>Phase 1 of the site is the largest of the 2 phases. Phase 1 involves setting up the responsive layout of the website. Some of the components that need to be developed include a youtube theater at the top of the page, setting up a responsive carousel, and the user generated content area.</p>
@@ -19,17 +19,17 @@ $description = "#BeACharacter 2014 David Menendez & Blackbaud";
                     <div class="row">
                         <div class="col col3">
                             <a href="assets/img/work/beacharacter/fullsize/be-a-character2.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character2.jpg" alt="party city development">
+                                <img src="assets/img/work/beacharacter/be-a-character2.jpg" alt="fancybox implementation with custom sharing overlay for be a character">
                             </a>
                         </div>
                         <div class="col col3">
                             <a href="assets/img/work/beacharacter/fullsize/be-a-character1.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character1.jpg" alt="party city development">
+                                <img src="assets/img/work/beacharacter/be-a-character1.jpg" alt="video selector carousel for be a character promotion">
                             </a>
                         </div>
                         <div class="col col3">
                             <a href="assets/img/work/beacharacter/fullsize/be-a-character3.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/beacharacter/be-a-character3.jpg" alt="party city development">
+                                <img src="assets/img/work/beacharacter/be-a-character3.jpg" alt="instagram library grid for #beacharacter">
                             </a>
                         </div>
                     </div>
