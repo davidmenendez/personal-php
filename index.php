@@ -31,9 +31,9 @@
                 <h3>Work Samples</h3>
                 <div class="row clearfix">
                     <div class="col col4 workPreview">
-                        <a href="hadassah.php" title="Hadassah">
+                        <a href="hadassah.php">
                             <figure>
-                                <img src="assets/img/work/hadassah/hada1.jpg">
+                                <img src="assets/img/work/hadassah/hada1.jpg" alt="hadassah homepage by David Menendez">
                                 <figcaption>
                                     <h3>Hadassah</h3>
                                 </figcaption>
@@ -41,9 +41,9 @@
                         </a>
                     </div>
                     <div class="col col4 workPreview">
-                        <a href="colorado-childrens-hospital.php" title="Colorada Childrens Hospital">
+                        <a href="colorado-childrens-hospital.php">
                             <figure>
-                                <img src="assets/img/work/chcf/chcf.jpg">
+                                <img src="assets/img/work/chcf/chcf.jpg" alt="colorado childrens hospital responsive project">
                                 <figcaption>
                                     <h3>CHCOF</h3>
                                 </figcaption>
@@ -51,9 +51,9 @@
                         </a>
                     </div>
                     <div class="col col4 workPreview">
-                        <a href="blackbaud.php" title="Blackbaud">
+                        <a href="blackbaud.php">
                             <figure>
-                                <img src="assets/img/work/blackbaud/rfl.jpg">
+                                <img src="assets/img/work/blackbaud/rfl.jpg" alt="american cancer society fundraising landing page">
                                 <figcaption>
                                     <h3>Blackbaud</h3>
                                 </figcaption>
@@ -61,9 +61,9 @@
                         </a>
                     </div>
                     <div class="col col4 workPreview">
-                        <a href="be-a-character.php" title="Be-A-Character">
+                        <a href="be-a-character.php">
                             <figure>
-                                <img src="assets/img/work/beacharacter/be-a-character1.jpg">
+                                <img src="assets/img/work/beacharacter/be-a-character1.jpg" alt="be a character promotion by david menendez">
                                 <figcaption>
                                     <h3>Be A Character</h3>
                                 </figcaption>

@@ -8,12 +8,17 @@ $description = "Colorado Childrens Hospital 2014 David Menendez & Blackbaud";
             <div class="container mainContent">
                 <img alt="colorado childrens hospital project by David Menendez" class="banner" src="assets/img/work/chcf/banner.jpg">
                 <h1>Colorado Childrens Hospital</h1>
-                <p>This year Party City decided to make a heavily social network based microsite for their Halloween promotion. The theme is #BeACharacter, as if using the hash tag on various social networks to be a part of the website. For this project I worked as head front end developer.</p>
-                <p>Phase 1 of the site is the largest of the 2 phases. Phase 1 involves setting up the responsive layout of the website. Some of the components that need to be developed include a youtube theater at the top of the page, setting up a responsive carousel, and the user generated content area.</p>
-                <p>Once the CSS for the layout was complete I spent a great amount of time working with the creative developer to get the images sliced correctly and start adding the creative assets. This was a bit tricky at times because of the responsive element, but after some tinkering I was able to get everything to act correctly.</p>
-                <p>The user generated content area took quite a bit of time to do. It's a 4x4 image grid that uses infinite scrolling. There was originally two pages, one for the user generated content, but that was dropped into an overlay. It was just a matter of setting up the grid and connecting the overlay with all the share functionality. I also had to find a solution for the content that was videos.</p>
-                <p>In the end everything was connected and the had a good flow responsively. The trickiest part of the project was getting the overlay to act nicely responsively in a way that fit the creative. Once that was worked out everything else sort of fell into place.</p>
-                <p><a href="http://bacdev.ztrac.com" target="_blank">BeACharacter Link</a></p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </p>
+                <p>
+                    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis, neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+                </p>
+                <ul>
+                    <li><a href="http://chcof.pub30.convio.net/team-childrens-colorado/" target="_blank">Team Children's Colorado</a></li>
+                    <li><a href="http://chcof.pub30.convio.net/courage-classic/" target="_blank">Courage Classic</a></li>
+                    <li><a href="http://chcof.pub30.convio.net/" target="_blank">Children's Hospital Colorado</a></li>
+                </ul>
                 <div id="screens">
                     <h3>Screens</h3>
                     <div class="row">
