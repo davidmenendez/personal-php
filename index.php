@@ -8,9 +8,9 @@
                 <nav id="mainNav">
                     <ul>
                         <li><a href="portfolio.php">PORTFOLIO</a></li>
+                        <li><a href="about.php">ABOUT</a></li>
                         <li><a href="about.php#resumeContainer">RESUME</a></li>
                         <li><a href="about.php#contactContainer">CONTACT</a></li>
-                        <li><a href="about.php">ABOUT</a></li>
                     </ul>
                 </nav>
             </header>
