@@ -9,9 +9,19 @@
                 </nav>
             </div>
         </footer>
-        <script src="assets/js/libs/jquery/jquery-1.11.1.min.js"></script>
-        <script src="assets/js/libs/fancybox/jquery.fancybox.min.js"></script>
-        <script src="assets/js/libs/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
+        <div id="pageloading">
+            <div class="animation-5">
+                <p>LOADING...</p>
+                <div class="bar bar1"></div>
+                <div class="bar bar2"></div>
+                <div class="bar bar3"></div>
+                <div class="bar bar4"></div>
+                <div class="bar bar5"></div>
+            </div>
+        </div>
+        <script src="assets/js/jquery-1.11.1.min.js"></script>
+        <script src="assets/js/jquery.fancybox.min.js"></script>
+        <script src="assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
         <script src="assets/js/functions.js"></script>
     </body>
 </html>

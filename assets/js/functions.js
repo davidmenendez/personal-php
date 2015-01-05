@@ -1,6 +1,7 @@
 $(function () {
     $("#work").on("click", "#workNav .btn", function (e) {
         e.preventDefault();
+        $("#pageloading").fadeIn();
         var scroller = $("#work").offset();
         var link = $(this).attr("href");
         $("#work").animate({opacity: 0}, 1000);
@@ -8,7 +9,11 @@ $(function () {
             $.ajax({
                 url: link,
                 dataType: "html",
+                beforeSend: function () {
+                    
+                },
                 success: function (html) {
+                    $("#pageloading").fadeOut();
                     var div = $(".mainContent", $(html));
                     var title = $(html).filter('title').text();
                     $("title").text(title);
