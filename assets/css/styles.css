@@ -278,8 +278,20 @@ a.btn:hover{
     margin-top: 40px;
     font-size: 32px;
 }
+#work a.btn{
+    margin: 0;
+}
 
-/*entries*/
+/*projects*/
+.skillspane ul{
+    margin: 0;
+    list-style: none;
+    overflow: hidden;
+}
+.skillspane li{
+    float: left;
+    margin-right: 10px;
+}
 
 /*about*/
 #resumeContainer li{

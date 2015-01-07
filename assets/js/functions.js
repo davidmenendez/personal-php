@@ -27,14 +27,12 @@ $(function () {
             });
         });
     });
-
     pageLoadAnimate();
     function pageLoadAnimate() {
         $("#work").animate({
             opacity: 1
         }, 1000);
     }
-
     $("#navicon").on("click", function () {
         $("#siteHeader").find("nav").slideToggle();
     });
