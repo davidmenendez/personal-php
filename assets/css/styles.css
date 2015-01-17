@@ -39,6 +39,11 @@ p, a, li{
     font-size: 20px;
     line-height: 30px;
 }
+small{
+    margin-bottom: 15px;
+    font-size: 16px;
+    line-height: 30px;
+}
 a{
     color: inherit;
     text-decoration: none;
@@ -170,8 +175,9 @@ a.btn:hover{
     margin: 0;
 }
 #branding{
-    font-size: 46px;
+    font-size: 4vw;
     font-family: "Open Sans";
+    margin-bottom: 0;
 }
 #mainNav ul{
     max-width: 600px;
@@ -282,17 +288,6 @@ a.btn:hover{
     margin: 0;
 }
 
-/*projects*/
-.skillspane ul{
-    margin: 0;
-    list-style: none;
-    overflow: hidden;
-}
-.skillspane li{
-    float: left;
-    margin-right: 10px;
-}
-
 /*about*/
 #resumeContainer li{
     margin-bottom: 10px;
@@ -304,16 +299,20 @@ a.btn:hover{
 footer{
     background: #333;
     color: #eee;
+    text-align: center;
+}
+footer .container{
+    padding: 35px 0 20px 0;
 }
 #footerNav h2{
     margin: 0;
 }
 #footerNav ul{
     width: 400px;
+    margin-bottom: 15px;
 }
 #footerNav li{
     width: 33.3%;
-    text-align: center;
     margin: 0;
 }
 #screens img{

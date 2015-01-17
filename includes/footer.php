@@ -7,6 +7,7 @@
                         <li><h2><a href="about.php#contactContainer">CONTACT</a></h2></li>
                     </ul>
                 </nav>
+                <small>&copy; David Menendez 2015</small>
             </div>
         </footer>
         <div id="pageloading">

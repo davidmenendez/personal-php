@@ -29,18 +29,18 @@ $description = "Hadassah 2014 David Menendez & Blackbaud";
                     </div>
                     <div class="row">
                         <div class="col col3">
+                            <a href="assets/img/work/hadassah/fullsize/hada5.jpg" class="fancybox" rel="group">
+                                <img src="assets/img/work/hadassah/hada5.jpg" alt="news and stories listing page">
+                            </a>
+                        </div>
+                        <div class="col col3">
                             <a href="assets/img/work/hadassah/fullsize/hada4.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/hadassah/hada4.jpg" alt="news and stories listing page">
+                                <img src="assets/img/work/hadassah/hada4.jpg" alt="carousel and video overlay for history page">
                             </a>
                         </div>
                         <div class="col col3">
                             <a href="assets/img/work/hadassah/fullsize/hada3.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/hadassah/hada3.jpg" alt="carousel and video overlay for history page">
-                            </a>
-                        </div>
-                        <div class="col col3">
-                            <a href="assets/img/work/hadassah/fullsize/hada5.jpg" class="fancybox" rel="group">
-                                <img src="assets/img/work/hadassah/hada5.jpg" alt="news article page with responsive comments section">
+                                <img src="assets/img/work/hadassah/hada3.jpg" alt="news article page with responsive comments section">
                             </a>
                         </div>
                     </div>
@@ -48,15 +48,6 @@ $description = "Hadassah 2014 David Menendez & Blackbaud";
             </div>
         </section>
         <section id="skills" class="container">
-            <div class="skillspane">
-                <h3>Skills</h3>
-                <ul>
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>Javascript / jQuery</li>
-                </ul>
-            </div>
-            <div class="clearfix"></div>
             <div class="projectDescription">
                 <h3>Description</h3>
                 <p>
