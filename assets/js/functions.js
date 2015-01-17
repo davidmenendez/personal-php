@@ -1,12 +1,12 @@
 $(function () {
-    $("#work").on("click", "#workNav .btn", function (e) {
+    $("#project").on("click", "#workNav .btn", function (e) {
         e.preventDefault();
         var loadermessage = setTimeout(function(){
             $("#pageloading").fadeIn();
         }, 3000);
-        var scroller = $("#work").offset();
+        var scroller = $("#project").offset();
         var link = $(this).attr("href");
-        $("#work").animate({opacity: 0}, 1000);
+        $("#project").animate({opacity: 0}, 1000);
         $("body,html").animate({scrollTop: scroller.top}, 1000).promise().done(function () {
             $.ajax({
                 url: link,
@@ -20,7 +20,7 @@ $(function () {
                     var div = $(".mainContent", $(html));
                     var title = $(html).filter('title').text();
                     $("title").text(title);
-                    $("#work").html(div);
+                    $("#project").html(div);
                     pageLoadAnimate();
                     history.pushState(null, null, link);
                 }
@@ -29,7 +29,7 @@ $(function () {
     });
     pageLoadAnimate();
     function pageLoadAnimate() {
-        $("#work").animate({
+        $("#project").animate({
             opacity: 1
         }, 1000);
     }

@@ -4,8 +4,10 @@ $title = "#BeACharacter";
 $description = "#BeACharacter 2014 David Menendez & Blackbaud";
 ?>
 <?php include 'includes/header.php'; ?>
-        <section id="work">
-            <div class="container mainContent">
+    <section id="project">
+        <div class="mainContent">
+            <section id="work">
+                <div class="container">
                 <img class="banner" alt="be a character project for party city" src="assets/img/work/beacharacter/be-a-character-banner.jpg">
                 <h1>#BeACharacter by Party City</h1>
                 <p><a href="http://bacdev.ztrac.com" target="_blank">BeACharacter Link</a></p>
@@ -28,9 +30,8 @@ $description = "#BeACharacter 2014 David Menendez & Blackbaud";
                         </div>
                     </div>
                 </div>
-        </section>
-        <section id="skills" class="container">
-            <div class="projectDescription">
+            </section>
+            <section id="projectDescription" class="container">
                 <h3>Description</h3>
                 <p>This year Party City decided to make a heavily social network based microsite for their Halloween promotion. The theme is #BeACharacter, as if using the hash tag on various social networks to be a part of the website. For this project I worked as head front end developer.</p>
                 <p>Phase 1 of the site is the largest of the 2 phases. Phase 1 involves setting up the responsive layout of the website. Some of the components that need to be developed include a youtube theater at the top of the page, setting up a responsive carousel, and the user generated content area.</p>
@@ -40,6 +41,7 @@ $description = "#BeACharacter 2014 David Menendez & Blackbaud";
                 <div id="workNav">
                     <a class="btn" href="bridgewater.php">Bridgewater</a>
                 </div>
-            </div>
-        </section>
+            </section>
+        </div>
+    </section>
 <?php include 'includes/footer.php'; ?>
