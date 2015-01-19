@@ -9,18 +9,17 @@ $description = "Learn more about David Menendez. View my web development work an
                 <h2>About Me</h2>
                 <div id="aboutContainer">
                     <div id="aboutText">
-                        <p>Born in Brookyln, New York and Florida resident for the last 20 years, I have had an interest in technology and web development since an early age. Since the time of Yahoo Geocities and America Online I have wanted to build my own niche on the internet.</p>
+                        <p>Current Austin resident, I've had had an interest in technology and web development since an early age. Since the time of Yahoo Geocities and America Online I have wanted to build my own niche on the internet.</p>
                         <p>I graduated in 2012 with a Bachelors of Science degree in Information Technology from Florida State University and specialized in web development, database, and programming courses. During my time time at FSU I picked up various internships to continue to learn about web development and see what a career in the tech field is like.</p>
                         <p>Needless to say I was smitten. Between my course work and internships, I decided to set my career sites on web developer. After graduating I was hired as a Junior PHP developer for Zimmerman Advertising where I cut my teeth professionally building websites for clients like Party City and WhiteCastle for a year.</p>
-                        <p>I currently live in Austin, Texas and work as a front end developer for Blackbaud. Blackbaud is a leading provider for software targeted towards non profit companies to accept donations. I do work for noteable clients such as Make A Wish, American Cancer Society, & the Canadian Diabetes Association.</p>
-                        <p>When I'm not spending days working with visual studio and debugging web config errors, I can be found working with my other passions; writing music on guitar, filming, and extreme sports.</p>
+                        <p>I currently live in Austin, Texas and work as a front end developer for Blackbaud. Blackbaud is a leading provider for software targeted towards non profit companies to accept donations and set up fundraising events. I do work for noteable clients such as Make A Wish, American Cancer Society, & the Canadian Diabetes Association.</p>
                     </div>
                     <div id="profile">
                         <img alt="developer david menendez" src="assets/img/work/profile.jpg">
                     </div>
                 </div>
                 <div id="contactContainer">
-                    <h2>Contact Me</h2>
+                    <h2>Ways to reach me</h2>
                     <p>Phone: 954-643-0549</p>
                     <p>Email: <a href="mailto:david@davidmenendez.net">david@davidmenendez.net</a></p>
                     <p>Linkedin: <a href="http://www.linkedin.com/in/davidamenendez" target="_blank"> in/davidamenendez</a></p>

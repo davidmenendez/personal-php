@@ -38,12 +38,8 @@ $description = "Colorado Childrens Hospital 2014 David Menendez & Blackbaud";
             </section>
             <section id="projectDescription" class="container">
                 <h3>Description</h3>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </p>
-                <p>
-                    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis, neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
-                </p>
+                <p>This project in particular was a challenge due to harsh time constraints and expectations set forth by the client, but luckily was pulled off. This project would be three separate site designs, though they were very similar they each possessed their own unique challenges. My role was lead front-end developer for Team Children's Colorado, Courage Classic ,and Children's Hospital Colorado.</p>
+                <p>Because of the time constraints, the team and I decided that the best approach for the build would be to use a css framework to save time. We went with Bootstrap because I very familiar with it. I also used a few other jQuery plugins along with the bootstrap functionality for additional flair. The initial build took the longest to complete and each other build after was much quicker since it was mostly a few color changes.</p>
                 <div id="workNav">
                     <a class="btn" href="blackbaud.php">Blackbaud</a>
                 </div>

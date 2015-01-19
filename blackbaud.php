@@ -58,13 +58,10 @@ $description = "Blackbaud 2014 David Menendez & Blackbaud";
             </section>
             <section id="projectDescription" class="container">
                 <h3>Description</h3>
-                <p>Clients- American Cancer Society, Kent State University, Make a Wish Foundation, Project HOPE, and more</p>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </p>
-                <p>
-                    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis, neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
-                </p>
+                <p>Clients- American Cancer Society, Kent State University, Make a Wish Foundation, Project HOPE, University of Rochester, Canadian Diabetes Association, Multiple Myeloma Research Foundation, and more</p>
+                <p>The work I do for Blackbaud is primarily front-end related work. A lot of HTML, CSS, and Javascript. At Blackbaud I work with their product called Luminate Online, which is their fundraising software. The work I do can be put into two categories- deployments and retainers.</p>
+                <p>With deployments I do the majority of the front-end work. The process starts with a PSD from one of our designers or a third party vender and ends with a complete cut up of the design into a fully functional and responsive site. Part of this process is integrating the HTML into the product, which is usually used as a template for product built pages.</p>
+                <p>Retainers typically consist of working directly with clients to do bug fixes or small one off projects. This typically involves me working heavily with the product to set up new team raising options. The entire reason for the team I work with is to do custom builds of the product, so there is a lot of manipulation of the product pages with javascript and CSS.</p>
                 <div id="workNav">
                     <a class="btn" href="be-a-character.php">#BeACharacter</a>
                 </div>
