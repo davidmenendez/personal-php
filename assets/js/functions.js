@@ -1,7 +1,7 @@
 $(function () {
     $("#project").on("click", "#workNav .btn", function (e) {
         e.preventDefault();
-        var loadermessage = setTimeout(function(){
+        var loadermessage = setTimeout(function () {
             $("#pageloading").fadeIn();
         }, 3000);
         var scroller = $("#project").offset();
@@ -44,4 +44,31 @@ $(function () {
             }
         }
     });
+
+
+    //progress
+    function progressFill(value) {
+        $(".progressbar").each(function () {
+            var self = $(this);
+            var filler = self.find(".progressfiller");
+            var progressNum = value || filler.data("progress");
+            var progress = ((progressNum > 100) ? 100 : progressNum) + "%";
+            filler.animate({"width": progress}, 1000);
+            var num = self.children('.progressPercentage').find("span");
+            $({countNum: num.text()}).animate({countNum: progressNum}, {
+                duration: 1000,
+                easing: 'linear',
+                step: function () {
+                    num.text(Math.floor(this.countNum));
+                },
+                complete: function () {
+                    num.text(this.countNum);
+                }
+            });
+        });
+    }
+    setTimeout(function () {
+        progressFill()
+    }, 3000);
+
 });

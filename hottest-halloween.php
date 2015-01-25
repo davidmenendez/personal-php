@@ -44,7 +44,7 @@ $description = "Hottest Halloween 2014 David Menendez & Blackbaud";
                 <h2>Phase 5-</h2>
                 <p>The final phase consisted of adding a new landing page the announced the winner and turned off voting. A fine farewell to my first project.</p>
                 <div id="workNav">
-                    <a class="btn" href="zimmerman.php">Zimmerman Advertising</a>
+                    <a class="btn" href="hadassah.php">Hadassah</a>
                 </div>
             </section>
         </div>

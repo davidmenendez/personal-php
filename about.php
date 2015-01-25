@@ -66,6 +66,61 @@ $description = "Learn more about David Menendez. View my web development work an
                             <li>Supported Desktops and Users by setting up security with AVG, E-mail with Thunderbird, other software, and troubleshooting everyday problems</li>
                         </ul>
                     </div>
+                    
+                </div>
+            </div>
+        </section>
+        <section id="resumeRedesign">
+            <div id="skills1">
+                <div class="container">
+                    <h1>Skills & Tools</h1>
+                    <div class="row">
+                        <div class="col col3">
+                            <p>HTML5</p>
+                            <div class="progressbar">
+                                <p class="progressPercentage"><span>0</span>%</p>
+                                <div class="progressfiller" data-progress="90"></div>
+                            </div>
+                        </div>
+                        <div class="col col3">
+                            <p>CSS3</p>
+                            <div class="progressbar">
+                                <p class="progressPercentage"><span>0</span>%</p>
+                                <div class="progressfiller" data-progress="90"></div>
+                            </div>
+                        </div>
+                        <div class="col col3">
+                            <p>Javascript</p>
+                            <div class="progressbar">
+                                <p class="progressPercentage"><span>0</span>%</p>
+                                <div class="progressfiller" data-progress="70"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col col3">
+                            <p>PHP</p>
+                        <div class="progressbar">
+                                <p class="progressPercentage"><span>0</span>%</p>
+                                <div class="progressfiller" data-progress="50"></div>
+                            </div></div>
+                        <div class="col col3">
+                            <p>MYSQL</p>
+                        <div class="progressbar">
+                                <p class="progressPercentage"><span>0</span>%</p>
+                                <div class="progressfiller" data-progress="70"></div>
+                            </div></div>
+                        <div class="col col3">
+                            <p>Photoshop</p>
+                        <div class="progressbar">
+                                <p class="progressPercentage"><span>0</span>%</p>
+                                <div class="progressfiller" data-progress="30"></div>
+                            </div></div>
+                    </div>
+                </div>
+            </div>
+            <div id="skills2">
+                <div class="container">
                     <div class="row">
                         <div class="col col2">
                             <h2>Skills</h2>
@@ -76,14 +131,13 @@ $description = "Learn more about David Menendez. View my web development work an
                                     <li>Able to effectively communicate with users to best determine their needs, work with users to keep them updated in a timely manner, and deliver a quality product that satisfies the user’s needs.</li>
                                     <li>Knowledge of search engine optimization best practices to ensure a healthy amount of traffic to a site. Able to implement google analytics in a meaningful and effective way to provide clients with important user habit information.</li>
                                 </ul>
-                                <p>Familiar with building websites with:</p>
+                                <p>Familiar Languages:</p>
                                 <ul>
                                     <li>HTML5</li>
                                     <li>CSS3</li>
                                     <li>Javascript</li>
                                     <li>PHP</li>
                                     <li>MYSQL</li>
-                                    <li>Content Management Systems</li>
                                     <li>ASP.Net</li>
                                 </ul>
                             </div>

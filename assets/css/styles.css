@@ -175,7 +175,7 @@ a.btn:hover{
     margin: 0;
 }
 #branding{
-    font-size: 4vw;
+    font-size: 77px;
     font-family: "Open Sans";
     margin-bottom: 0;
 }
@@ -303,7 +303,7 @@ footer{
     text-align: center;
 }
 footer .container{
-    padding: 35px 0 20px 0;
+    padding: 35px 20px 20px 20px;
 }
 #footerNav h2{
     margin: 0;
@@ -322,6 +322,54 @@ footer .container{
 }
 #screens img:hover{
     border-color: #E25454;
+}
+
+/*resume redesign test*/
+#resumeRedesign{
+    text-align: center;
+}
+#resumeRedesign .row{
+    margin: 0;
+    padding: 20px 0;
+}
+#resumeRedesign .row p{
+    /* margin: 0; */
+}
+#resumeRedesign .row:first-child{
+    /*border-bottom: 1px solid #111;*/
+}
+#resumeRedesign .row:last-child{
+    /*border-top: 1px solid #555;*/
+}
+#skills1{
+    /* background: #333; */
+    /* color: #fff; */
+    /* border-bottom: 1px solid #111; */
+}
+#skills2{
+    /* border-top: 1px solid #333; */
+    background: #eee;
+    color: #333;
+    text-align: left;
+}
+.progressbar{
+    height: 30px;
+    position: relative;
+    /* color: #fff; */
+    border: 2px solid #E25454;
+}
+.progressbar p{
+    position: relative;
+    z-index: 999;
+    line-height: 26px;
+}
+.progressfiller{
+    height: 100%;
+    background: #E25454;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
 }
 
 
@@ -381,6 +429,9 @@ footer .container{
         text-align: center;
     }
     /*nav*/
+    #branding{
+        font-size: 60px;
+    }
     #siteHeader > nav{
         display: none;
         clear: both;
@@ -450,8 +501,21 @@ footer .container{
         float: none;
         width: 100%;
     }
+    #resumeRedesign .row{
+        padding: 0;
+    }
+    #skills1 h1{
+        margin-bottom: 15px;
+    }
+    .workPreview h3{
+        margin-top: 40px;
+    }
+    .workPreview p{
+        display: none;
+    }
 }
 
+/*loading styles*/
 #pageloading{
     display: none;
     position: fixed;

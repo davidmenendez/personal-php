@@ -122,19 +122,6 @@ $description = "Blackbaud 2014 David Menendez & Blackbaud";
                             </figure>
                         </a>
                     </div>
-                    <div class="col col3 workPreview">
-                        <a href="zimmerman.php">
-                            <figure>
-                                <img alt="burgerfi and other works" src="assets/img/work/zimmerman/burgerfi.jpg">
-                                <figcaption>
-                                    <h3>Zimmerman Advertising</h3>
-                                    <p>HTML / CSS</p>
-                                    <p>Javascript</p>
-                                    <p>PHP</p>
-                                </figcaption>
-                            </figure>
-                        </a>
-                    </div>
                 </div>
             </div>
         </section>
