@@ -17,7 +17,7 @@
         </section>
         <section id="middle" class="mainContent">
             <div class="container">
-                <h1>David Menendez- Front End web developer</h1>
+                <h1>David Menendez- Professional Web Developer</h1>
                 <h3>Front End Developer</h3>
                 <p>Experienced in developing websites with HTML5, CSS3, and jQuery. Able to craft pages from Photoshop mocks and add functionality from client specs. Also knowledgeable of responsive mobile design and modern coding practices. Familiar with integrating jQuery plugins as well as writing javascript to accomplish various site related tasks. <a href="portfolio.php">Read more about my front end work.</a></p>
                 <h3>Back End Developer</h3>
