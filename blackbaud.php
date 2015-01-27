@@ -1,7 +1,7 @@
 <?php
 #META Settings
 $title = "Blackbaud";
-$description = "Blackbaud 2014 David Menendez & Blackbaud";
+$description = "David Menendez & Blackbaud projects ranging from 2014 to 2015 featuring ACS, Make-A-Wish, and More.";
 ?>
 <?php include 'includes/header.php'; ?>
     <section id="project">

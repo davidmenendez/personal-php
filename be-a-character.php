@@ -1,7 +1,7 @@
 <?php
 #META Settings
 $title = "#BeACharacter";
-$description = "#BeACharacter 2014 David Menendez & Blackbaud";
+$description = "#BeACharacter web promotion 2014 David Menendez, Party City, & Zimmerman Advertising";
 ?>
 <?php include 'includes/header.php'; ?>
     <section id="project">

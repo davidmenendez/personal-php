@@ -1,7 +1,7 @@
 <?php
 #META Settings
 $title = "Portfolio";
-$description = "Blackbaud 2014 David Menendez & Blackbaud";
+$description = "List of front-end development projects by David Menendez. Featuring use of HTML5, CSS3, Javascript, jQuery, PHP, & Photoshop.";
 ?>
 <?php include 'includes/header.php'; ?>
         <section id="portfolio">

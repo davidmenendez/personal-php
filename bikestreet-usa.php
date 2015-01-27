@@ -1,7 +1,7 @@
 <?php
 #META Settings
 $title = "Bikestreet USA";
-$description = "Bikestreet USA 2013 David Menendez & Blackbaud";
+$description = "Bikestreet USA CMS project 2013 David Menendez & Zimmerman Advertising";
 ?>
 <?php include 'includes/header.php'; ?>
     <section id="project">

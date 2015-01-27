@@ -1,3 +1,7 @@
+<?php
+#META Settings
+$description = "Portfolio for front-end developer David Menendez. I work with HTML5/CSS3, Responsive Design, and jQurey on a daily basis to craft a total web experience.";
+?>
 <?php include 'includes/header.php'; ?>
         <section id="top" class="content">
             <header>

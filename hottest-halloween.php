@@ -1,7 +1,7 @@
 <?php
 #META Settings
 $title = "Hottest Halloween";
-$description = "Hottest Halloween 2014 David Menendez & Blackbaud";
+$description = "Hottest Halloween web promotion 2014 David Menendez, Party City, & Zimmerman Advertising";
 ?>
 <?php include 'includes/header.php'; ?>
     <section id="project">

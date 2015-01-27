@@ -1,7 +1,7 @@
 <?php
 #META Settings
 $title = "About";
-$description = "Learn more about David Menendez. View my web development work and resume.";
+$description = "Learn more about David Menendez. View my web development work and download my resume for safe keeping.";
 ?>
 <?php include 'includes/header.php'; ?>
         <section id="about" class="mainContent">
@@ -108,7 +108,7 @@ $description = "Learn more about David Menendez. View my web development work an
                             <p>MYSQL</p>
                         <div class="progressbar">
                                 <p class="progressPercentage"><span>0</span>%</p>
-                                <div class="progressfiller" data-progress="70"></div>
+                                <div class="progressfiller" data-progress="60"></div>
                             </div></div>
                         <div class="col col3">
                             <p>Photoshop</p>

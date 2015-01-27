@@ -1,7 +1,7 @@
 <?php
 #META Settings
 $title = "National Hamburger Month";
-$description = "National Hamburger Month 2014 David Menendez & Blackbaud";
+$description = "National Hamburger Month web promotion project 2014 David Menendez & Zimmerman Advertising";
 ?>
 <?php include 'includes/header.php'; ?>
     <section id="project">

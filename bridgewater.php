@@ -1,7 +1,7 @@
 <?php
 #META Settings
 $title = "Bridgewater";
-$description = "Bridgewater 2014 David Menendez & Blackbaud";
+$description = "Bridgewater home realty project 2014 David Menendez & Zimmerman Advertising";
 ?>
 <?php include 'includes/header.php'; ?>
     <section id="project">

@@ -1,7 +1,7 @@
 <?php
 #META Settings
 $title = "CHCOF";
-$description = "Colorado Childrens Hospital 2014 David Menendez & Blackbaud";
+$description = "Colorado Childrens Hospital font-end/CMS project 2014-2015 David Menendez & Blackbaud";
 ?>
 <?php include 'includes/header.php'; ?>
     <section id="project">
