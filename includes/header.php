@@ -1,3 +1,4 @@
+<?php $debugger = (isset($_GET["debug"]) && $_GET["debug"] === "true") ? true : false; ?>
 <!DOCTYPE html>
 <html lang="en-US">
     <head>
@@ -9,7 +10,7 @@
         <meta property="og:image" content="http://www.<?php echo $_SERVER['SERVER_NAME']; ?>/assets/img/work/david_menendez_fb.jpg" />
         <link href='http://fonts.googleapis.com/css?family=Lato:300,400|Open+Sans:400,300|Oswald' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="assets/css/jquery.fancybox.css">
-        <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+        <link rel="stylesheet" type="text/css" href="assets/css/styles.<?php echo ($debugger)? "" : "min."; ?>css">
         <script>
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r;

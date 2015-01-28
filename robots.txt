@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /blog/
+Disallow: /dm09f2/
+Disallow: /dm09f3/
+Disallow: /lin/
+Disallow: /stats/
+Disallow: /_hcc_thumbs/
+Disallow: /_db_backups/
+Disallow: /backup/

@@ -23,6 +23,6 @@
         <script src="assets/js/jquery-1.11.1.min.js"></script>
         <script src="assets/js/jquery.fancybox.min.js"></script>
         <script src="assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
-        <script src="assets/js/functions.js"></script>
+        <script src="assets/js/functions.<?php echo ($debugger)? "" : "min."; ?>js"></script>
     </body>
 </html>
