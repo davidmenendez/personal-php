@@ -44,8 +44,6 @@ $(function () {
             }
         }
     });
-
-
     //progress
     function progressFill(value) {
         $(".progressbar").each(function () {
@@ -70,5 +68,10 @@ $(function () {
     setTimeout(function () {
         progressFill()
     }, 3000);
-
+    $("#resumeDoc").on("click", function(){
+        ga('send', 'Resume Download', 'button', 'click', "Doc");
+    });
+    $("#resumePDF").on("click", function(){
+        ga('send', 'Resume Download', 'button', 'click', "PDF");
+    });
 });

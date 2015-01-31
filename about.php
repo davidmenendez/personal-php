@@ -27,8 +27,8 @@ $description = "Learn more about David Menendez. View my web development work an
                 <div id="resumeContainer">
                     <h2>Resume</h2>
                     <p>Download my resume for safe keeping.</p>
-                    <a class="btn" href="assets/files/david_menendez_resume.docx">DOC Download</a>
-                    <a class="btn" href="assets/files/david_menendez_resume.pdf">PDF Download</a>
+                    <a id="resumeDoc" class="btn" href="assets/files/david_menendez_resume.docx">DOC Download</a>
+                    <a id="resumePDF" class="btn" href="assets/files/david_menendez_resume.pdf">PDF Download</a>
                     <h2>Work Experience</h2>
                     <div class="resume_entry">
                         <p>Interactive Developer II, Blackbaud INC <a href="http://www.blackbaud.com/" target="_blank">www.blackbaud.com</a>, 10/13 - Current</p>
