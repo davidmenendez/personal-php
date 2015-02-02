@@ -3,8 +3,8 @@
                 <nav id="footerNav">
                     <ul>
                         <li><h2><a href="portfolio.php">PORTFOLIO</a></h2></li>
+                        <li><h2><a href="about.php">ABOUT</a></h2></li>
                         <li><h2><a href="about.php#resumeContainer">RESUME</a></h2></li>
-                        <li><h2><a href="about.php#contactContainer">CONTACT</a></h2></li>
                     </ul>
                 </nav>
                 <small>&copy; David Menendez 2015</small>
