@@ -53,7 +53,6 @@ $description = "List of front-end development projects by David Menendez. Featur
                                     <h3>BeACharacter</h3>
                                     <p>HTML / CSS</p>
                                     <p>jQuery</p>
-                                    <p>C# MVC4</p>
                                 </figcaption>
                             </figure>
                         </a>
@@ -75,9 +74,8 @@ $description = "List of front-end development projects by David Menendez. Featur
                             <figure>
                                 <img alt="national hamburger month landing page" src="assets/img/work/nhm/national-hamburger-month11.jpg">
                                 <figcaption>
-                                    <h3>National Hamburger Month</h3>
+                                    <h3>NHM</h3>
                                     <p>HTML / CSS</p>
-                                    <p>jQuery</p>
                                     <p>C# MVC4</p>
                                 </figcaption>
                             </figure>
@@ -91,7 +89,6 @@ $description = "List of front-end development projects by David Menendez. Featur
                                     <h3>Zimmerman Blog</h3>
                                     <p>HTML / CSS</p>
                                     <p>PHP</p>
-                                    <p>Wordpress</p>
                                 </figcaption>
                             </figure>
                         </a>
@@ -104,7 +101,6 @@ $description = "List of front-end development projects by David Menendez. Featur
                                     <h3>Bikestreet USA</h3>
                                     <p>HTML / CSS</p>
                                     <p>jQuery</p>
-                                    <p>C# Kentico CMS</p>
                                 </figcaption>
                             </figure>
                         </a>
@@ -116,7 +112,6 @@ $description = "List of front-end development projects by David Menendez. Featur
                                 <figcaption>
                                     <h3>Hottest Halloween</h3>
                                     <p>HTML / CSS</p>
-                                    <p>jQuery</p>
                                     <p>C# MVC4</p>
                                 </figcaption>
                             </figure>

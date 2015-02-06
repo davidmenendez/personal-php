@@ -8,8 +8,8 @@ $description = "National Hamburger Month web promotion project 2014 David Menend
         <div class="mainContent">
             <section id="work">
                 <div class="container">
-                    <img class="banner" src="assets/img/work/nhm/banner.jpg" alt="national hamburger month promotion for Whitecastle by David Menendez">
                     <h1>National Hamburger Month by WhiteCastle</h1>
+                    <img class="banner" src="assets/img/work/nhm/banner.jpg" alt="national hamburger month promotion for Whitecastle by David Menendez">
                     <div id="screens">
                         <div class="row">
                             <div class="col col3">

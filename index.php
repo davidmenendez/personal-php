@@ -21,7 +21,7 @@ $description = "Portfolio for front-end developer David Menendez. I work with HT
         </section>
         <section id="middle" class="mainContent">
             <div class="container">
-                <h1>David Menendez- Professional Web Developer</h1>
+                <h1>A Professional Web Developer</h1>
                 <h3>Front End Developer</h3>
                 <p>Experienced in developing websites with HTML5, CSS3, and jQuery. Able to craft pages from Photoshop mocks and add functionality from client specs. Also knowledgeable of responsive mobile design and modern coding practices. Familiar with integrating jQuery plugins as well as writing javascript to accomplish various site related tasks. <a href="portfolio.php">Read more about my front end work.</a></p>
                 <h3>Back End Developer</h3>
@@ -34,7 +34,7 @@ $description = "Portfolio for front-end developer David Menendez. I work with HT
             <div class="container">
                 <h3>Work Samples</h3>
                 <div class="row clearfix">
-                    <div class="col col4 workPreview">
+                    <div class="col col3 workPreview">
                         <a href="hadassah.php">
                             <figure>
                                 <img src="assets/img/work/hadassah/hada1.jpg" alt="hadassah homepage by David Menendez">
@@ -44,7 +44,7 @@ $description = "Portfolio for front-end developer David Menendez. I work with HT
                             </figure>
                         </a>
                     </div>
-                    <div class="col col4 workPreview">
+                    <div class="col col3 workPreview">
                         <a href="colorado-childrens-hospital.php">
                             <figure>
                                 <img src="assets/img/work/chcf/chcf.jpg" alt="colorado childrens hospital responsive project">
@@ -54,22 +54,12 @@ $description = "Portfolio for front-end developer David Menendez. I work with HT
                             </figure>
                         </a>
                     </div>
-                    <div class="col col4 workPreview">
+                    <div class="col col3 workPreview">
                         <a href="blackbaud.php">
                             <figure>
                                 <img src="assets/img/work/blackbaud/rfl.jpg" alt="american cancer society fundraising landing page">
                                 <figcaption>
                                     <h3>Blackbaud</h3>
-                                </figcaption>
-                            </figure>
-                        </a>
-                    </div>
-                    <div class="col col4 workPreview">
-                        <a href="be-a-character.php">
-                            <figure>
-                                <img src="assets/img/work/beacharacter/be-a-character1.jpg" alt="be a character promotion by david menendez">
-                                <figcaption>
-                                    <h3>Be A Character</h3>
                                 </figcaption>
                             </figure>
                         </a>

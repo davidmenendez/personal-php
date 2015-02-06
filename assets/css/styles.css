@@ -80,6 +80,7 @@ nav li{
     border-bottom: 5px solid transparent;
     float: left;
     -webkit-transition: all 200ms linear;
+    transition: all 200ms linear;
 }
 nav li:hover, nav li.active{
     border-bottom-color: #E25454;
@@ -93,6 +94,9 @@ nav a{
 #siteHeader li{
     margin-right: 10px;
 }
+#siteHeader h1 a{
+    font-size: inherit;
+}
 #navicon{
     display: none;
 }
@@ -100,6 +104,7 @@ nav a{
 /*global classes*/
 .container{
     max-width: 1200px;
+    max-width: 900px;
     width: 100%;
     margin: 0 auto;
     padding: 20px;
@@ -258,7 +263,7 @@ a.btn:hover{
     -webkit-transform: scale(1.5);
 }
 .workPreview h3{
-    margin-top: 25px;
+    margin-top: 15px;
 }
 .workPreview p{
     margin-bottom: 0;
@@ -509,7 +514,9 @@ footer .container{
     }
     .workPreview h3{
         margin-top: 40px;
-    }
+    
+        font-size: 32px;
+}
     .workPreview p{
         display: none;
     }
