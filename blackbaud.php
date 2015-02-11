@@ -8,9 +8,8 @@ $description = "David Menendez & Blackbaud projects ranging from 2014 to 2015 fe
         <div class="mainContent">
             <section id="work">
                 <div class="container">
-                    <img class="banner" src="assets/img/work/blackbaud/banner.jpg" alt="relay for life project by David Menendez">
                     <h1>Blackbaud</h1>
-                    <ul>
+                    <ul class="linklist">
                         <li><a href="http://support.themmrf.org/site/TR?fr_id=1770&pg=entry" target="_blank">Multiple Myeloma Research Foundation</a></li>
                         <li><a href="http://main.acsevents.org/site/TR/MakingStridesAgainstBreastCancer/MSABCCY14National?pg=entry&fr_id=63322" target="_blank">Making Strides against Breast Cancer</a></li>
                         <li><a href="http://main.acsevents.org/site/TR/RelayForLife/RFLCY14National?pg=entry&fr_id=63206" target="_blank">Relay for Life</a></li>
@@ -18,6 +17,7 @@ $description = "David Menendez & Blackbaud projects ranging from 2014 to 2015 fe
                         <li><a href="http://teamraiser.rochester.edu/site/TR?fr_id=1050&pg=entry" target="_blank">University of Rochester</a></li>
                         <li><a href="http://www.pathfind.org/stories/index.html" target="_blank">Pathfinder</a></li>
                     </ul>
+                    <img class="banner" src="assets/img/work/blackbaud/banner.jpg" alt="relay for life project by David Menendez">
                     <div id="screens">
                         <div class="row">
                             <div class="col col3">

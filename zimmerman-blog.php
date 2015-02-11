@@ -8,8 +8,9 @@ $description = "Zimmerman Blog wordpress project 2014 David Menendez & Zimmerman
         <div class="mainContent">
             <section id="work">
                 <div class="container">
-                    <img class="banner" src="assets/img/work/zblog/banner.jpg" alt="zimmerman advertising block by David Menendez">
                     <h1>Zimmerman Advertising Blog</h1>
+                    <p><a href="http://zimmermanblog.com" target="_blank">Live Site</a></p>
+                    <img class="banner" src="assets/img/work/zblog/banner.jpg" alt="zimmerman advertising block by David Menendez">
                     <div id="screens">
                         <div class="row">
                             <div class="col col3">
@@ -38,7 +39,6 @@ $description = "Zimmerman Blog wordpress project 2014 David Menendez & Zimmerman
                 <p>While not a very large or complicated project, it did require knowledge of php and wordpress. I'm thankful that wordpress is a great tool for accomplishing small website likes this that allow the user to generate their own content quickly and easily. They wanted social sharing and facebook commenting, which was no problem with the help of a few plugins. Most of the wordpress work I did involved redoing the loops in files like single.php</p>
                 <p>There was also no creative outline for the individual pages and the blog posts, so this was one of the times where I used my best judgment and took some creative liberties. No one seemed to object and found some of my ideas to be good, such as adding links for related posts.</p>
                 <p>Because this was a small project I also used this time to use some of my photoshop knowledge to provide myself with some of the assets for the live page by taking them for the mock. In some instances I find it easier to not wait for others to provide me with assets when I can do it myself in a fraction of the time.</p>
-                <p><a href="http://www.zimmermanblog.com" target="_blank">zBlog Link</a></p>
                 <div id="workNav">
                     <a class="btn" href="bikestreet-usa.php">Bikestreet USA</a>
                 </div>

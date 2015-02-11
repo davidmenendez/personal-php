@@ -8,16 +8,8 @@ $description = "Bikestreet USA CMS project 2013 David Menendez & Zimmerman Adver
         <div class="mainContent">
             <section id="work">
                 <div class="container">
-                    <img class="banner" src="assets/img/work/bstreet/banner.jpg" alt="bikestreet usa project by David Menendez">
                     <h1>Bikestreet USA</h1>
-                    <ul>
-                        <li><a href="http://www.bikestreetusa.com/about-us/blog/" target="_blank">Blog</a></li>
-                        <li><a href="http://www.bikestreetusa.com/about-us/events/" target="_blank">Events</a></li>
-                        <li><a href="http://www.bikestreetusa.com/about-us/word-on-the-street/" target="_blank">Word on the Street</a></li>
-                        <li><a href="http://www.bikestreetusa.com/store-locator/" target="_blank">Store locations listing page</a></li>
-                        <li><a href="http://www.bikestreetusa.com/store-locator/juno-beach" target="_blank">Individual store locations page</a></li>
-                        <li><a href="http://www.bikestreetusa.com" target="_blank">Bikestreet USA site link</a></li>
-                    </ul>
+                    <img class="banner" src="assets/img/work/bstreet/banner.jpg" alt="bikestreet usa project by David Menendez">
                     <div id="screens">
                         <div class="row">
                             <div class="col col3">

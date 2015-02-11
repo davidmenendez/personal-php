@@ -8,9 +8,9 @@ $description = "Hadassah front-end/CMS project 2014-2015 David Menendez & Blackb
         <div class="mainContent">
             <section id="work">
                 <div class="container">
-                    <img class="banner" alt="hadassah front end development project for blackbaud" src="assets/img/work/hadassah/banner3.jpg">
                     <h1>Hadassah</h1>
-                    <p><a href="http://wzoa.pub30.convio.net/" target="_blank">Hadassah Link</a></p>
+                    <p><a href="http://wzoa.pub30.convio.net/" target="_blank">Live Site</a></p>
+                    <img class="banner" alt="hadassah front end development project for blackbaud" src="assets/img/work/hadassah/banner3.jpg">
                     <div id="screens">
                         <div class="row">
                             <div class="col col3">

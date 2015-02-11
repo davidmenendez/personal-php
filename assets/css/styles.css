@@ -98,6 +98,9 @@ nav a{
 #siteHeader h1 a{
     font-size: inherit;
 }
+#siteHeader h1 a:hover{
+    color: #E25454;
+}
 #navicon{
     display: none;
 }
@@ -136,6 +139,10 @@ a.btn:hover{
     background: transparent;
     color: #333;
     border-color:#333;
+}
+.linklist{
+    list-style: none;
+    margin: 0;
 }
 
 /*rows and cols*/

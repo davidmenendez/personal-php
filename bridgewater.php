@@ -8,9 +8,9 @@ $description = "Bridgewater home realty project 2014 David Menendez & Zimmerman 
         <div class="mainContent">
             <section id="work">
                 <div class="container">
-                    <img class="banner" src="assets/img/work/lennar/banner.jpg" alt="bridgewater project for lennar by David Menendez">
                     <h1>Bridgewater by Lennar</h1>
-                    <p><a href="http://www.bridgewaterlakewoodranch.com/" target="_blank">Lennar Link</a></p>
+                    <p><a href="http://www.bridgewaterlakewoodranch.com/" target="_blank">Live Site</a></p>
+                    <img class="banner" src="assets/img/work/lennar/banner.jpg" alt="bridgewater project for lennar by David Menendez">
                     <div id="screens">
                         <div class="row">
                             <div class="col col3">

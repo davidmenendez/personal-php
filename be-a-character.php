@@ -8,9 +8,8 @@ $description = "#BeACharacter web promotion 2014 David Menendez, Party City, & Z
         <div class="mainContent">
             <section id="work">
                 <div class="container">
-                <img class="banner" alt="be a character project for party city" src="assets/img/work/beacharacter/be-a-character-banner.jpg">
                 <h1>#BeACharacter by Party City</h1>
-                <p><a href="http://bacdev.ztrac.com" target="_blank">BeACharacter Link</a></p>
+                <img class="banner" alt="be a character project for party city" src="assets/img/work/beacharacter/be-a-character-banner.jpg">
                 <div id="screens">
                     <div class="row">
                         <div class="col col3">

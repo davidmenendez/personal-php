@@ -8,8 +8,8 @@ $description = "Hottest Halloween web promotion 2014 David Menendez, Party City,
         <div class="mainContent">
             <section id="work">
                 <div class="container">
-                <img class="banner" src="assets/img/work/hottesthalloween/banner.jpg" alt="hottest halloween project by david menendez">
                 <h1>Hottest Halloween by Party City</h1>
+                <img class="banner" src="assets/img/work/hottesthalloween/banner.jpg" alt="hottest halloween project by david menendez">
                 <div id="screens">
                     <div class="row">
                         <div class="col col3">

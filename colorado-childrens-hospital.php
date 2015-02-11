@@ -8,13 +8,13 @@ $description = "Colorado Childrens Hospital font-end/CMS project 2014-2015 David
         <div class="mainContent">
             <section id="work">
                 <div class="container">
-                    <img alt="colorado childrens hospital project by David Menendez" class="banner" src="assets/img/work/chcf/banner.jpg">
                     <h1>Colorado Childrens Hospital</h1>
-                    <ul>
+                    <ul class="linklist">
                         <li><a href="http://chcof.pub30.convio.net/team-childrens-colorado/" target="_blank">Team Children's Colorado</a></li>
                         <li><a href="http://chcof.pub30.convio.net/courage-classic/" target="_blank">Courage Classic</a></li>
                         <li><a href="http://chcof.pub30.convio.net/" target="_blank">Children's Hospital Colorado</a></li>
                     </ul>
+                    <img alt="colorado childrens hospital project by David Menendez" class="banner" src="assets/img/work/chcf/banner.jpg">
                     <div id="screens">
                         <div class="row">
                             <div class="col col3">
