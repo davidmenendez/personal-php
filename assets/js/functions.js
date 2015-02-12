@@ -69,9 +69,9 @@ $(function () {
         progressFill()
     }, 3000);
     $("#resumeDoc").on("click", function(){
-        ga('send', 'Resume Download', 'button', 'click', "Doc");
+        ga('send', 'event', 'DOC Downdload', 'click', "Doc");
     });
     $("#resumePDF").on("click", function(){
-        ga('send', 'Resume Download', 'button', 'click', "PDF");
+        ga('send', 'event', 'Resume Download', 'click', "PDF");
     });
 });
